@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 
 /**
- * Yusuf Mert Köseoğlu
+
  *
  */
 public class ResManApp {
